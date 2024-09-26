@@ -13,6 +13,7 @@ public enum Weapon {
         this.damage = damage ;
         this.attackSpeed = attackSpeed;
 
+
     }
 
     public  int getDamage(){

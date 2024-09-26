@@ -14,6 +14,7 @@ public class Player {
         this.weapon = weapon;
     }
 
+
     private  void  checkAndSetHealth(int healthPercentage) {
         if (healthPercentage<0) {
             this.healthPercentage = 0 ;
